@@ -1,5 +1,5 @@
 
-print("===BIENVENIDOS A COINCIDENCIA ===")
+print("===BIENVENIDOS A 'EL MEJOR'===")
 
 print("¿A quién querés conocer?")
 print("1. Hombres")
