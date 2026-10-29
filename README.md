@@ -2,10 +2,10 @@
 Juego "El mejor"
 
 
-Programa de consola en Python donde el usuario elige un perfil y 
+Programa de consola en Python donde el usuario responde preguntas sobre sus hobbies. 
 
-responde preguntas sobre sus preferencias. 
+Al finalizar, el programa calcula la compatibilidad con distintas personas y muestra 
 
-Al finalizar, se muestra la cantidad de respuestas
+aquella con la que comparte mas intereses.
 
-que coinciden con las preferencias del perfil seleccionado y la mejor opción.  
+ 
